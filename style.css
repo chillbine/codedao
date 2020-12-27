@@ -1,13 +1,7 @@
-*{
+body{
     margin: 0;
     padding: 0;
-}
-
-.main{
-    width:  1000px;
-    height: 500px;
-    text-align: center;
-    padding-top: 300px;
-    background-color: #f5f5f5;
-    margin: auto;
+    font-family: sans-serif;
+    background-color: url(dark.jpg) no-repeat;
+    background-size: cover;
 }
