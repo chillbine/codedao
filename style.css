@@ -2,6 +2,20 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-color: url(dark.jpg) no-repeat;
+    background: url(dark.jpg) no-repeat;
     background-size: cover;
+
+}
+.login-box{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+.login-box h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px solid;
 }
